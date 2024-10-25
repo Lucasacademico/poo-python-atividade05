@@ -1,6 +1,6 @@
-from veiculo import Veiculo
-from carro import Carro
-from moto import Moto
+from classes.veiculo import Veiculo
+from classes.carro import Carro
+from classes.moto import Moto
 
 
 # Cria uma instância de Veiculo

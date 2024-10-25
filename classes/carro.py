@@ -1,4 +1,4 @@
-from veiculo import Veiculo
+from classes.veiculo import Veiculo
 
 class Carro(Veiculo):
     def __init__(self, nome, ano, valor_diario, tipo_combustivel):
